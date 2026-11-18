@@ -302,7 +302,7 @@ This plugin is for Claude Code. For other AI assistants:
 ## Links
 
 - [Repository](https://github.com/terrygzhou/arc-kit)
-- [Documentation](https://tractorjuice.github.io/arc-kit)
+- [Documentation](https://terrygzhou.github.io/arc-kit/)
 - [Changelog](https://github.com/terrygzhou/arc-kit/blob/main/CHANGELOG.md)
 
 ## License
